@@ -1,0 +1,11 @@
+.li {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  margin-left: 10px;
+  border-radius: 5px;
+  height: 20px;
+}
